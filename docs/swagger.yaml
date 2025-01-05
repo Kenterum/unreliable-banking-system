@@ -1,0 +1,71 @@
+openapi: 3.0.0
+info:
+  title: Unreliable Server API
+  description: This API simulates an unreliable server with random outcomes for HTTP requests. It is used for monitoring purposes, and you can check the server logs for request history.
+  version: 1.0.0
+servers:
+  - url: http://localhost:3000
+
+paths:
+  /getbalance:
+    get:
+      summary: Get a fake balance
+      description: |
+        This route returns fake financial data with random outcomes. The response can be one of the following:
+        - HTTP 200: Success (returns fake balance)
+        - HTTP 403: Forbidden (error message)
+        - HTTP 500: Internal Server Error
+        - Timeout or other error
+      responses:
+        "200":
+          description: Success
+          content:
+            text/html:
+              schema:
+                type: string
+                example: "<h1>Your balance is $10,000</h1>"
+        "403":
+          description: Forbidden
+          content:
+            text/html:
+              schema:
+                type: string
+                example: "<h1>403 Forbidden</h1>"
+        "500":
+          description: Internal Server Error
+          content:
+            text/html:
+              schema:
+                type: string
+                example: "<h1>500 Internal Server Error</h1>"
+        "default":
+          description: Timeout or other error, server may not respond.
+          content:
+            text/html:
+              schema:
+                type: string
+                example: "<h1>Request timed out or other unknown error</h1>"
+
+  /getlogs:
+    get:
+      summary: Get the server logs
+      description: Returns the logs of all requests made to /getbalance in JSON format. Useful for monitoring server activity and outcomes.
+      responses:
+        "200":
+          description: List of log entries
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
+                  properties:
+                    timestamp:
+                      type: string
+                      description: The time of the request (ISO 8601 format).
+                    ip:
+                      type: string
+                      description: The IP address of the request.
+                    outcome:
+                      type: string
+                      description: The outcome of the request. Possible values -> success, timeout, 403, 500.
