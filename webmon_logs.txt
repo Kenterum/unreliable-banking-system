@@ -1,0 +1,451 @@
+2024-12-08T19:09:17.035Z [INFO] Starting UBS monitoring...
+2024-12-08T19:09:27.103Z [INFO] UBS is running with status 200.
+2024-12-08T19:09:37.053Z [INFO] UBS is running with status 200.
+2024-12-08T19:09:52.057Z [ERROR] UBS timed out after 5000ms.
+2024-12-08T19:09:57.049Z [INFO] UBS is running with status 200.
+2024-12-08T19:10:07.064Z [INFO] UBS is running with status 200.
+2024-12-08T19:10:17.057Z [INFO] UBS is running with status 200.
+2024-12-08T19:10:27.056Z [INFO] UBS is running with status 200.
+2024-12-08T19:10:37.062Z [INFO] UBS is running with status 200.
+2024-12-08T19:10:52.167Z [ERROR] UBS timed out after 5000ms.
+2024-12-08T19:10:57.076Z [INFO] UBS is running with status 200.
+2024-12-08T19:11:07.091Z [ERROR] UBS is not responding: Request failed with status code 500
+2024-12-08T19:11:17.076Z [ERROR] UBS is not responding: Request failed with status code 403
+2024-12-08T19:11:27.074Z [INFO] UBS is running with status 200.
+2024-12-08T19:11:42.130Z [ERROR] UBS timed out after 5000ms.
+2024-12-08T19:11:47.103Z [ERROR] UBS is not responding: Request failed with status code 403
+2024-12-08T19:12:20.539Z [INFO] Starting UBS monitoring...
+2024-12-08T19:12:30.560Z [ERROR] UBS is not responding: Request failed with status code 500
+2024-12-08T19:12:40.551Z [ERROR] UBS is not responding: Request failed with status code 403
+2024-12-08T19:12:50.575Z [INFO] UBS is running with status 200.
+2024-12-08T19:13:00.552Z [INFO] UBS is running with status 200.
+2024-12-08T19:13:10.575Z [ERROR] UBS is not responding: Request failed with status code 403
+2024-12-08T19:13:20.561Z [INFO] UBS is running with status 200.
+2024-12-08T19:13:30.561Z [INFO] UBS is running with status 200.
+2024-12-08T19:13:45.568Z [ERROR] UBS timed out after 5000ms.
+2024-12-08T19:13:50.561Z [INFO] UBS is running with status 200.
+2024-12-08T19:14:00.568Z [ERROR] UBS is not responding: Request failed with status code 403
+2024-12-08T19:14:10.567Z [ERROR] UBS is not responding: Request failed with status code 403
+2024-12-08T19:14:22.180Z [INFO] Starting UBS monitoring...
+2024-12-08T19:14:32.208Z [INFO] UBS is running with status 200.
+2024-12-08T19:14:47.195Z [ERROR] UBS timed out after 5000ms.
+2024-12-08T19:14:52.200Z [INFO] UBS is running with status 200.
+2024-12-08T19:15:02.240Z [ERROR] UBS is not responding: Request failed with status code 403
+2024-12-08T19:15:12.202Z [ERROR] UBS is not responding: Request failed with status code 403
+2024-12-08T19:15:22.205Z [INFO] UBS is running with status 200.
+2024-12-08T19:15:37.280Z [ERROR] UBS timed out after 5000ms.
+2024-12-08T19:15:42.280Z [INFO] UBS is running with status 200.
+2024-12-08T19:15:52.286Z [ERROR] UBS is not responding: Request failed with status code 403
+2024-12-08T19:16:02.288Z [INFO] UBS is running with status 200.
+2024-12-08T19:16:17.286Z [ERROR] UBS timed out after 5000ms.
+2024-12-08T19:16:22.288Z [ERROR] UBS is not responding: Request failed with status code 500
+2024-12-08T19:16:37.284Z [ERROR] UBS timed out after 5000ms.
+2024-12-08T19:16:42.288Z [INFO] UBS is running with status 200.
+2024-12-08T19:16:52.299Z [ERROR] UBS is not responding: Request failed with status code 403
+2024-12-08T19:17:02.294Z [INFO] UBS is running with status 200.
+2024-12-08T19:46:01.812Z [INFO] Starting UBS monitoring...
+2024-12-08T19:46:11.846Z [ERROR] UBS is not responding: Request failed with status code 403
+2024-12-08T19:46:21.839Z [ERROR] UBS is not responding: Request failed with status code 403
+2024-12-08T19:46:31.871Z [INFO] UBS is running with status 200.
+2024-12-08T19:46:41.843Z [INFO] UBS is running with status 200.
+2025-01-01T07:52:06.081Z [INFO] Starting UBS server...
+2025-01-01T07:52:08.086Z [INFO] Starting UBS monitoring...
+2025-01-01T07:52:18.101Z [INFO] Success (200) from UBS.
+2025-01-01T07:52:33.099Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T07:52:38.098Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T07:52:48.098Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T07:52:58.095Z [ERROR] Connection error: Request failed with status code 500
+2025-01-01T07:53:08.095Z [ERROR] Connection error: Request failed with status code 500
+2025-01-01T07:53:18.096Z [INFO] Success (200) from UBS.
+2025-01-01T07:53:28.100Z [INFO] Success (200) from UBS.
+2025-01-01T08:41:28.626Z [INFO] Starting UBS server...
+2025-01-01T08:41:30.632Z [INFO] Starting UBS monitoring...
+2025-01-01T08:41:40.659Z [ERROR] Connection error: Request failed with status code 500
+2025-01-01T08:41:50.645Z [INFO] Success (200) from UBS.
+2025-01-01T08:42:00.644Z [INFO] Success (200) from UBS.
+2025-01-01T08:42:10.642Z [ERROR] Connection error: Request failed with status code 500
+2025-01-01T08:42:25.644Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T08:42:30.644Z [ERROR] Connection error: Request failed with status code 500
+2025-01-01T08:42:40.644Z [INFO] Success (200) from UBS.
+2025-01-01T08:42:55.644Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T08:43:00.652Z [INFO] Success (200) from UBS.
+2025-01-01T08:43:10.649Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T08:43:25.648Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T08:43:30.652Z [ERROR] Connection error: Request failed with status code 500
+2025-01-01T08:43:45.651Z [ERROR] Timeout from UBS. Count=2
+2025-01-01T08:43:45.653Z [INFO] Restarting UBS server...
+2025-01-01T08:43:45.653Z [INFO] Starting UBS server...
+2025-01-01T08:43:45.659Z [ERROR] UBS server exited with code null, signal SIGTERM
+2025-01-01T08:43:50.664Z [INFO] Success (200) from UBS.
+2025-01-01T08:44:00.655Z [INFO] Success (200) from UBS.
+2025-01-01T08:44:10.657Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T08:44:20.657Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T08:44:30.656Z [INFO] Success (200) from UBS.
+2025-01-01T08:44:40.660Z [INFO] Success (200) from UBS.
+2025-01-01T08:44:50.662Z [INFO] Success (200) from UBS.
+2025-01-01T08:45:00.663Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T08:45:15.661Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T08:45:20.665Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T08:45:30.664Z [INFO] Success (200) from UBS.
+2025-01-01T08:45:40.667Z [INFO] Success (200) from UBS.
+2025-01-01T08:45:50.670Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T08:46:05.669Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T08:46:10.672Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T08:46:20.674Z [INFO] Success (200) from UBS.
+2025-01-01T08:46:30.673Z [INFO] Success (200) from UBS.
+2025-01-01T08:46:45.672Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T08:46:50.677Z [ERROR] Connection error: Request failed with status code 500
+2025-01-01T08:47:00.678Z [ERROR] Connection error: Request failed with status code 500
+2025-01-01T08:47:15.674Z [ERROR] Timeout from UBS. Count=2
+2025-01-01T08:47:15.674Z [INFO] Starting UBS server...
+2025-01-01T08:47:15.838Z [ERROR] UBS server exited with code 1, signal null
+2025-01-01T08:47:25.675Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T08:47:30.679Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T08:47:40.681Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T08:47:50.682Z [INFO] Success (200) from UBS.
+2025-01-01T08:48:00.683Z [INFO] Success (200) from UBS.
+2025-01-01T08:48:10.686Z [ERROR] Connection error: Request failed with status code 500
+2025-01-01T08:48:25.682Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T08:48:30.686Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T08:48:40.686Z [INFO] Success (200) from UBS.
+2025-01-01T08:48:50.689Z [INFO] Success (200) from UBS.
+2025-01-01T08:49:00.690Z [INFO] Success (200) from UBS.
+2025-01-01T08:49:10.690Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T08:49:25.690Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T08:49:30.692Z [INFO] Success (200) from UBS.
+2025-01-01T08:49:45.691Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T08:49:50.693Z [INFO] Success (200) from UBS.
+2025-01-01T08:50:00.697Z [INFO] Success (200) from UBS.
+2025-01-01T08:50:15.696Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T08:50:25.694Z [ERROR] Timeout from UBS. Count=2
+2025-01-01T08:50:25.695Z [INFO] Starting UBS server...
+2025-01-01T08:50:25.854Z [ERROR] UBS server exited with code 1, signal null
+2025-01-01T08:50:30.695Z [ERROR] Connection error: Request failed with status code 500
+2025-01-01T08:50:40.699Z [INFO] Success (200) from UBS.
+2025-01-01T08:50:50.700Z [ERROR] Connection error: Request failed with status code 500
+2025-01-01T08:51:00.703Z [INFO] Success (200) from UBS.
+2025-01-01T08:51:10.702Z [INFO] Success (200) from UBS.
+2025-01-01T08:51:25.701Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T08:51:35.701Z [ERROR] Timeout from UBS. Count=2
+2025-01-01T08:51:35.702Z [INFO] Starting UBS server...
+2025-01-01T08:51:35.892Z [ERROR] UBS server exited with code 1, signal null
+2025-01-01T08:51:40.705Z [INFO] Success (200) from UBS.
+2025-01-01T08:51:50.706Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T08:52:00.704Z [INFO] Success (200) from UBS.
+2025-01-01T08:52:10.706Z [ERROR] Connection error: Request failed with status code 500
+2025-01-01T08:52:20.708Z [INFO] Success (200) from UBS.
+2025-01-01T08:52:30.710Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T08:52:40.709Z [INFO] Success (200) from UBS.
+2025-01-01T08:52:50.708Z [ERROR] Connection error: Request failed with status code 500
+2025-01-01T08:53:00.709Z [INFO] Success (200) from UBS.
+2025-01-01T08:53:10.712Z [ERROR] Connection error: Request failed with status code 500
+2025-01-01T08:53:20.712Z [ERROR] Connection error: Request failed with status code 500
+2025-01-01T08:53:30.714Z [INFO] Success (200) from UBS.
+2025-01-01T08:53:40.715Z [INFO] Success (200) from UBS.
+2025-01-01T08:53:50.716Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T08:54:00.716Z [INFO] Success (200) from UBS.
+2025-01-01T08:54:10.719Z [INFO] Success (200) from UBS.
+2025-01-01T08:54:20.725Z [INFO] Success (200) from UBS.
+2025-01-01T08:54:30.722Z [INFO] Success (200) from UBS.
+2025-01-01T08:54:40.724Z [INFO] Success (200) from UBS.
+2025-01-01T08:54:50.725Z [INFO] Success (200) from UBS.
+2025-01-01T08:55:00.725Z [INFO] Success (200) from UBS.
+2025-01-01T08:55:15.727Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T08:55:20.730Z [INFO] Success (200) from UBS.
+2025-01-01T08:55:30.727Z [INFO] Success (200) from UBS.
+2025-01-01T08:55:40.729Z [INFO] Success (200) from UBS.
+2025-01-01T08:55:50.732Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T08:56:00.734Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T08:56:10.735Z [INFO] Success (200) from UBS.
+2025-01-01T08:56:20.735Z [INFO] Success (200) from UBS.
+2025-01-01T08:56:30.735Z [INFO] Success (200) from UBS.
+2025-01-01T08:56:40.736Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T08:56:50.740Z [ERROR] Connection error: Request failed with status code 500
+2025-01-01T08:57:00.741Z [INFO] Success (200) from UBS.
+2025-01-01T08:57:15.740Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T08:57:20.742Z [INFO] Success (200) from UBS.
+2025-01-01T08:57:30.742Z [INFO] Success (200) from UBS.
+2025-01-01T08:57:40.743Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T08:57:50.745Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T08:58:05.741Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T08:58:10.744Z [INFO] Success (200) from UBS.
+2025-01-01T08:58:20.743Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T08:58:35.743Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T08:58:40.746Z [INFO] Success (200) from UBS.
+2025-01-01T08:58:50.742Z [INFO] Success (200) from UBS.
+2025-01-01T08:59:00.739Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T08:59:10.737Z [ERROR] Connection error: Request failed with status code 500
+2025-01-01T08:59:20.738Z [INFO] Success (200) from UBS.
+2025-01-01T08:59:30.737Z [INFO] Success (200) from UBS.
+2025-01-01T08:59:40.738Z [INFO] Success (200) from UBS.
+2025-01-01T08:59:55.737Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T09:00:00.738Z [INFO] Success (200) from UBS.
+2025-01-01T09:00:10.743Z [INFO] Success (200) from UBS.
+2025-01-01T09:00:20.743Z [INFO] Success (200) from UBS.
+2025-01-01T09:00:30.744Z [INFO] Success (200) from UBS.
+2025-01-01T09:00:40.751Z [INFO] Success (200) from UBS.
+2025-01-01T09:00:50.745Z [INFO] Success (200) from UBS.
+2025-01-01T09:01:05.747Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T09:01:10.748Z [INFO] Success (200) from UBS.
+2025-01-01T09:01:20.751Z [INFO] Success (200) from UBS.
+2025-01-01T09:01:35.749Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T09:01:40.753Z [INFO] Success (200) from UBS.
+2025-01-01T09:01:50.756Z [INFO] Success (200) from UBS.
+2025-01-01T09:02:00.753Z [INFO] Success (200) from UBS.
+2025-01-01T09:02:10.757Z [ERROR] Connection error: Request failed with status code 500
+2025-01-01T09:02:20.759Z [ERROR] Connection error: Request failed with status code 500
+2025-01-01T09:02:30.757Z [ERROR] Connection error: Request failed with status code 500
+2025-01-01T09:02:40.761Z [INFO] Success (200) from UBS.
+2025-01-01T09:02:55.757Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T09:03:00.759Z [INFO] Success (200) from UBS.
+2025-01-01T09:03:10.759Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T09:03:20.762Z [INFO] Success (200) from UBS.
+2025-01-01T09:03:30.764Z [INFO] Success (200) from UBS.
+2025-01-01T09:03:40.764Z [INFO] Success (200) from UBS.
+2025-01-01T09:03:50.765Z [ERROR] Connection error: Request failed with status code 500
+2025-01-01T09:04:05.765Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T09:04:10.770Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T09:04:20.768Z [INFO] Success (200) from UBS.
+2025-01-01T09:04:35.768Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T09:04:40.770Z [INFO] Success (200) from UBS.
+2025-01-01T09:04:50.772Z [INFO] Success (200) from UBS.
+2025-01-01T09:05:00.773Z [INFO] Success (200) from UBS.
+2025-01-01T09:05:15.772Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T09:05:20.775Z [INFO] Success (200) from UBS.
+2025-01-01T09:05:30.777Z [INFO] Success (200) from UBS.
+2025-01-01T09:05:40.777Z [INFO] Success (200) from UBS.
+2025-01-01T09:05:50.784Z [INFO] Success (200) from UBS.
+2025-01-01T09:06:00.787Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T09:06:10.785Z [INFO] Success (200) from UBS.
+2025-01-01T09:06:20.785Z [INFO] Success (200) from UBS.
+2025-01-01T09:06:35.782Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T09:06:40.793Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T09:06:55.786Z [ERROR] Timeout from UBS. Count=2
+2025-01-01T09:06:55.788Z [INFO] Starting UBS server...
+2025-01-01T09:06:55.953Z [ERROR] UBS server exited with code 1, signal null
+2025-01-01T09:07:00.789Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T09:07:10.789Z [INFO] Success (200) from UBS.
+2025-01-01T09:07:20.790Z [INFO] Success (200) from UBS.
+2025-01-01T09:07:35.791Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T09:07:45.791Z [ERROR] Timeout from UBS. Count=2
+2025-01-01T09:07:45.792Z [INFO] Starting UBS server...
+2025-01-01T09:07:45.939Z [ERROR] UBS server exited with code 1, signal null
+2025-01-01T09:07:55.794Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T09:08:00.798Z [ERROR] Connection error: Request failed with status code 500
+2025-01-01T09:08:10.795Z [INFO] Success (200) from UBS.
+2025-01-01T09:08:20.797Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T09:08:35.796Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T09:08:40.800Z [ERROR] Connection error: Request failed with status code 500
+2025-01-01T09:08:50.801Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T09:09:00.800Z [INFO] Success (200) from UBS.
+2025-01-01T09:09:10.805Z [INFO] Success (200) from UBS.
+2025-01-01T09:09:20.805Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T09:09:30.802Z [ERROR] Connection error: Request failed with status code 500
+2025-01-01T09:09:40.805Z [ERROR] Connection error: Request failed with status code 500
+2025-01-01T09:09:50.807Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T09:10:00.806Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T09:10:10.809Z [ERROR] Connection error: Request failed with status code 500
+2025-01-01T09:10:20.808Z [INFO] Success (200) from UBS.
+2025-01-01T09:10:30.811Z [INFO] Success (200) from UBS.
+2025-01-01T09:10:40.811Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T09:10:50.811Z [ERROR] Connection error: Request failed with status code 500
+2025-01-01T09:11:00.814Z [INFO] Success (200) from UBS.
+2025-01-01T09:11:10.816Z [INFO] Success (200) from UBS.
+2025-01-01T09:11:20.817Z [INFO] Success (200) from UBS.
+2025-01-01T09:11:30.815Z [INFO] Success (200) from UBS.
+2025-01-01T09:11:40.816Z [INFO] Success (200) from UBS.
+2025-01-01T09:11:50.817Z [INFO] Success (200) from UBS.
+2025-01-01T09:12:00.819Z [INFO] Success (200) from UBS.
+2025-01-01T09:12:10.819Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T09:12:25.818Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T09:12:30.822Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T09:12:40.824Z [INFO] Success (200) from UBS.
+2025-01-01T09:12:50.822Z [INFO] Success (200) from UBS.
+2025-01-01T09:13:00.824Z [INFO] Success (200) from UBS.
+2025-01-01T09:13:10.826Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T09:13:20.827Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T09:13:30.829Z [INFO] Success (200) from UBS.
+2025-01-01T09:13:40.829Z [ERROR] Connection error: Request failed with status code 500
+2025-01-01T09:13:50.830Z [INFO] Success (200) from UBS.
+2025-01-01T09:14:00.832Z [INFO] Success (200) from UBS.
+2025-01-01T09:14:10.833Z [INFO] Success (200) from UBS.
+2025-01-01T09:14:20.834Z [ERROR] Connection error: Request failed with status code 500
+2025-01-01T09:14:30.833Z [INFO] Success (200) from UBS.
+2025-01-01T09:14:40.836Z [INFO] Success (200) from UBS.
+2025-01-01T09:14:55.833Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T09:15:00.837Z [INFO] Success (200) from UBS.
+2025-01-01T09:15:10.837Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T09:15:20.840Z [INFO] Success (200) from UBS.
+2025-01-01T09:15:35.838Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T09:15:40.841Z [INFO] Success (200) from UBS.
+2025-01-01T09:15:50.842Z [ERROR] Connection error: Request failed with status code 500
+2025-01-01T09:16:00.840Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T09:16:10.843Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T09:16:20.843Z [INFO] Success (200) from UBS.
+2025-01-01T09:16:30.842Z [INFO] Success (200) from UBS.
+2025-01-01T09:16:45.842Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T09:16:50.846Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T09:17:00.846Z [INFO] Success (200) from UBS.
+2025-01-01T09:17:10.846Z [INFO] Success (200) from UBS.
+2025-01-01T09:17:20.846Z [INFO] Success (200) from UBS.
+2025-01-01T09:17:30.848Z [INFO] Success (200) from UBS.
+2025-01-01T09:17:45.848Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T09:17:55.848Z [ERROR] Timeout from UBS. Count=2
+2025-01-01T09:17:55.850Z [INFO] Starting UBS server...
+2025-01-01T09:17:56.018Z [ERROR] UBS server exited with code 1, signal null
+2025-01-01T09:18:00.852Z [INFO] Success (200) from UBS.
+2025-01-01T09:18:10.852Z [INFO] Success (200) from UBS.
+2025-01-01T09:18:20.854Z [INFO] Success (200) from UBS.
+2025-01-01T09:18:30.854Z [INFO] Success (200) from UBS.
+2025-01-01T09:18:45.853Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T09:18:50.856Z [ERROR] Connection error: Request failed with status code 500
+2025-01-01T09:19:00.856Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T09:19:10.857Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T09:19:20.859Z [INFO] Success (200) from UBS.
+2025-01-01T09:19:30.860Z [INFO] Success (200) from UBS.
+2025-01-01T09:19:40.860Z [INFO] Success (200) from UBS.
+2025-01-01T09:19:50.862Z [INFO] Success (200) from UBS.
+2025-01-01T09:20:00.860Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T09:20:10.861Z [INFO] Success (200) from UBS.
+2025-01-01T09:20:20.864Z [ERROR] Connection error: Request failed with status code 500
+2025-01-01T09:20:30.863Z [ERROR] Connection error: Request failed with status code 500
+2025-01-01T09:20:40.865Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T09:20:50.866Z [INFO] Success (200) from UBS.
+2025-01-01T09:21:00.867Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T09:21:10.867Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T09:21:20.867Z [INFO] Success (200) from UBS.
+2025-01-01T09:21:35.851Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T09:21:40.852Z [INFO] Success (200) from UBS.
+2025-01-01T09:21:50.848Z [INFO] Success (200) from UBS.
+2025-01-01T09:28:56.306Z [INFO] Success (200) from UBS.
+2025-01-01T09:29:06.297Z [INFO] Success (200) from UBS.
+2025-01-01T09:29:16.299Z [INFO] Success (200) from UBS.
+2025-01-01T09:29:26.298Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T09:29:41.297Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T09:29:46.299Z [INFO] Success (200) from UBS.
+2025-01-01T09:29:56.300Z [INFO] Success (200) from UBS.
+2025-01-01T09:30:06.304Z [INFO] Success (200) from UBS.
+2025-01-01T09:30:16.303Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T09:30:26.302Z [ERROR] Connection error: Request failed with status code 500
+2025-01-01T09:30:36.305Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T09:30:46.318Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T09:31:01.305Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T09:31:06.309Z [INFO] Success (200) from UBS.
+2025-01-01T09:31:16.308Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T09:31:26.309Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T09:31:36.311Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T09:31:46.310Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T09:31:56.312Z [INFO] Success (200) from UBS.
+2025-01-01T09:32:06.313Z [INFO] Success (200) from UBS.
+2025-01-01T09:32:16.314Z [INFO] Success (200) from UBS.
+2025-01-01T09:32:31.314Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T09:32:41.315Z [ERROR] Timeout from UBS. Count=2
+2025-01-01T09:32:41.316Z [INFO] Starting UBS server...
+2025-01-01T09:32:41.573Z [ERROR] UBS server exited with code 1, signal null
+2025-01-01T09:32:46.317Z [INFO] Success (200) from UBS.
+2025-01-01T09:32:56.318Z [ERROR] Connection error: Request failed with status code 500
+2025-01-01T09:33:06.318Z [INFO] Success (200) from UBS.
+2025-01-01T09:33:21.318Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T09:33:26.320Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T09:33:36.322Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T09:33:51.320Z [ERROR] Timeout from UBS. Count=2
+2025-01-01T09:33:51.321Z [INFO] Starting UBS server...
+2025-01-01T09:33:51.483Z [ERROR] UBS server exited with code 1, signal null
+2025-01-01T09:33:56.324Z [INFO] Success (200) from UBS.
+2025-01-01T09:34:06.325Z [INFO] Success (200) from UBS.
+2025-01-01T09:34:16.326Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T09:34:31.326Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T09:34:36.330Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T09:34:46.328Z [INFO] Success (200) from UBS.
+2025-01-01T09:34:56.329Z [INFO] Success (200) from UBS.
+2025-01-01T09:35:06.329Z [ERROR] Connection error: Request failed with status code 500
+2025-01-01T09:35:21.331Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T09:35:26.336Z [INFO] Success (200) from UBS.
+2025-01-01T09:35:36.334Z [INFO] Success (200) from UBS.
+2025-01-01T09:35:46.337Z [INFO] Success (200) from UBS.
+2025-01-01T09:35:56.335Z [INFO] Success (200) from UBS.
+2025-01-01T09:36:06.335Z [ERROR] Connection error: Request failed with status code 500
+2025-01-01T09:36:16.335Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T09:36:31.335Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T09:36:36.339Z [INFO] Success (200) from UBS.
+2025-01-01T09:36:46.340Z [INFO] Success (200) from UBS.
+2025-01-01T09:37:01.340Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T09:37:06.341Z [INFO] Success (200) from UBS.
+2025-01-01T09:37:16.342Z [INFO] Success (200) from UBS.
+2025-01-01T09:37:26.346Z [INFO] Success (200) from UBS.
+2025-01-01T09:37:41.344Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T09:37:46.346Z [INFO] Success (200) from UBS.
+2025-01-01T09:37:56.347Z [INFO] Success (200) from UBS.
+2025-01-01T09:38:11.347Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T09:38:16.351Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T09:38:26.356Z [INFO] Success (200) from UBS.
+2025-01-01T09:38:36.352Z [INFO] Success (200) from UBS.
+2025-01-01T09:38:46.353Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T09:39:01.352Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T09:39:06.415Z [INFO] Success (200) from UBS.
+2025-01-01T09:54:37.117Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T09:54:52.130Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T09:54:57.137Z [INFO] Success (200) from UBS.
+2025-01-01T09:55:07.142Z [INFO] Success (200) from UBS.
+2025-01-01T10:10:20.579Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T10:10:20.581Z [INFO] Success (200) from UBS.
+2025-01-01T10:10:30.608Z [INFO] Success (200) from UBS.
+2025-01-01T10:10:40.615Z [ERROR] Connection error: Request failed with status code 500
+2025-01-01T10:10:50.621Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T10:11:00.626Z [INFO] Success (200) from UBS.
+2025-01-01T10:11:15.627Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T10:11:25.630Z [ERROR] Timeout from UBS. Count=2
+2025-01-01T10:11:25.630Z [INFO] Starting UBS server...
+2025-01-01T10:11:25.893Z [ERROR] UBS server exited with code 1, signal null
+2025-01-01T10:11:30.633Z [INFO] Success (200) from UBS.
+2025-01-01T10:11:40.634Z [ERROR] Connection error: Request failed with status code 500
+2025-01-01T10:11:50.634Z [ERROR] Connection error: Request failed with status code 500
+2025-01-01T10:12:00.636Z [INFO] Success (200) from UBS.
+2025-01-01T10:12:10.637Z [ERROR] Connection error: Request failed with status code 500
+2025-01-01T10:12:25.636Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T10:12:35.637Z [ERROR] Timeout from UBS. Count=2
+2025-01-01T10:12:35.638Z [INFO] Starting UBS server...
+2025-01-01T10:12:35.810Z [ERROR] UBS server exited with code 1, signal null
+2025-01-01T10:12:40.641Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T10:12:50.643Z [INFO] Success (200) from UBS.
+2025-01-01T10:13:05.642Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T10:13:10.647Z [INFO] Success (200) from UBS.
+2025-01-01T10:13:20.648Z [INFO] Success (200) from UBS.
+2025-01-01T10:13:35.647Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T10:13:40.649Z [INFO] Success (200) from UBS.
+2025-01-01T10:13:50.650Z [INFO] Success (200) from UBS.
+2025-01-01T10:14:00.651Z [INFO] Success (200) from UBS.
+2025-01-01T10:14:10.652Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T10:14:20.660Z [INFO] Success (200) from UBS.
+2025-01-01T10:14:30.658Z [INFO] Success (200) from UBS.
+2025-01-01T10:14:40.655Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T10:14:50.658Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T10:15:00.659Z [INFO] Success (200) from UBS.
+2025-01-01T10:15:15.659Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T10:15:20.661Z [INFO] Success (200) from UBS.
+2025-01-01T10:15:30.663Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T10:15:40.663Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T10:15:55.664Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T10:16:00.667Z [INFO] Success (200) from UBS.
+2025-01-01T10:16:10.668Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T10:16:20.670Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T10:16:30.670Z [INFO] Success (200) from UBS.
+2025-01-01T10:16:40.672Z [INFO] Success (200) from UBS.
+2025-01-01T10:16:50.674Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T10:17:05.672Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T10:17:10.676Z [INFO] Success (200) from UBS.
+2025-01-01T10:17:25.675Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T10:17:30.678Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T10:17:40.681Z [INFO] Success (200) from UBS.
+2025-01-01T10:17:50.682Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T10:18:00.681Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T10:18:10.683Z [ERROR] Connection error: Request failed with status code 403
+2025-01-01T10:18:20.685Z [INFO] Success (200) from UBS.
+2025-01-01T10:18:30.688Z [INFO] Success (200) from UBS.
+2025-01-01T10:18:40.687Z [INFO] Success (200) from UBS.
+2025-01-01T10:18:50.690Z [INFO] Success (200) from UBS.
+2025-01-01T10:19:00.693Z [ERROR] Connection error: Request failed with status code 500
+2025-01-01T10:19:15.688Z [ERROR] Timeout from UBS. Count=1
+2025-01-01T10:19:20.691Z [INFO] Success (200) from UBS.
+2025-01-01T10:19:30.690Z [INFO] Success (200) from UBS.
+2025-01-01T10:19:40.695Z [INFO] Success (200) from UBS.
